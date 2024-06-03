@@ -3,3 +3,4 @@ numpy==1.25.2
 requests==2.31.0
 torch==2.3.0
 torchvision==0.18.0
+efficientnet_pytorch==0.7.1
