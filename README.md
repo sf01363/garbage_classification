@@ -1,2 +1,3 @@
 # garbage_classification
-garbage_classification_Deep_learning
+
+https://garbageclassification-gqhcdny93mh7tcwcwgrxud.streamlit.app/
